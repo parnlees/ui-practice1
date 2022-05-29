@@ -1,3 +1,11 @@
 .body {
   height: calc(100vh - 56px);
+  background-image: linear-gradient(
+      rgb(247, 171, 30),
+      rgb(254, 221, 58),
+      rgb(230, 246, 140)
+    ),
+    url(../image/hamburger.jpg);
+  background-size: cover;
+  background-position: cover;
 }
