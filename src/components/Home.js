@@ -15,7 +15,7 @@ import Hamburger from "../image/Hamburger.jpg";
 
 function Home() {
   return (
-    <div className=" body">
+    <div className="body">
       <CardGroup>
         <Card style={{ width: "300px", height: "350px" }}>
           <div className="d-flex align-items-center justify-content-center">
@@ -56,9 +56,9 @@ function Home() {
           </div>
           <div className="d-flex align-items-center justify-content-center">
             <CardBody>
-              <CardTitle tag="h5"> Frenchfries</CardTitle>
+              <CardTitle tag="h5"> Hamburger</CardTitle>
               <CardSubtitle className="mb-2 text-muted" tag="h6">
-                hot dishes!
+                Main Menu !
               </CardSubtitle>
               <CardText>
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum
